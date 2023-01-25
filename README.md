@@ -1,7 +1,7 @@
 # Game: 2048
 **DEMO LINK**: https://hlazman.github.io/game2048/
 
-**Used technologies**: JS, HTML5, CSS3(Scss).
+**Used technologies**: JS, HTML5, CSS3(SCSS).
 
 **devDependencies**: eslint, node-sass, parcel, stylelint, stylelint-scss
 
